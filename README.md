@@ -12,6 +12,8 @@ Steps involved:
 ✅ Data visualization by different charts.
 
 ✅ Dashboard creation.
+![image](https://github.com/Shalinee13/ROAD-ACCIDENT-DASHBOARD-USING-TABLEAU/assets/122949321/4daad9d0-4388-4de4-ae6f-898a85bcd684)
+
 
 -> This dashboard is completely dynamic and interactive which is operated by using the filters (current year, previous year, Accident severity).
 
